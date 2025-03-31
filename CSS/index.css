@@ -1,0 +1,43 @@
+
+
+/* Estiliza o carrossel */
+.carousel {
+    max-width: 80%; /* Ajusta a largura do carrossel */
+    margin: 20px auto; /* Centraliza na tela */
+    border-radius: 15px; /* Bordas arredondadas */
+    overflow: hidden; /* Mantém a borda arredondada no carrossel */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Sombra para destaque */
+}
+
+.carousel img {
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 15px; /* Mantém a borda arredondada nas imagens */
+}
+
+/* Faz com que a página ocupe toda a altura da tela */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Faz com que o conteúdo principal ocupe o espaço disponível */
+main {
+    flex: 1;
+}
+
+/* Estiliza o footer e o fixa no final */
+footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: auto;
+}
+
+h2, h3 {
+    color: #007bff;
+}

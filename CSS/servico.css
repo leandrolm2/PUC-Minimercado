@@ -1,0 +1,65 @@
+/* CSS para garantir que o footer fique sempre no fundo */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Ajusta o estilo do header */
+header {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+}
+
+/* Ajusta o estilo do main */
+main {
+    flex-grow: 1;
+    margin-top: 30px;
+}
+
+/* Ajusta o estilo do footer */
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px;
+}
+
+h2, h3 {
+    color: #007bff;
+}
+
+/* Botões personalizados */
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.modal-body {
+    padding: 20px;
+}
+
+/* Estilo adicional para o modal */
+.modal-header {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.modal-content {
+    border-radius: 10px;
+}
+
+/* Layout de formulários */
+.form-label {
+    font-weight: bold;
+}
+
+input[type="text"], input[type="email"], input[type="tel"], input[type="number"] {
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+}

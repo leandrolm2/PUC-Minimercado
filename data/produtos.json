@@ -1,0 +1,93 @@
+[
+    {
+        "categoria": "alimenticios",
+        "nome": "Arroz",
+        "preco": "R$ 10,00",
+        "descricao": "Pacote de 1kg de arroz branco.",
+        "imagem": "img/arroz.png"
+    },
+    {
+        "categoria": "alimenticios",
+        "nome": "Feijão",
+        "preco": "R$ 8,00",
+        "descricao": "Feijão vermelho de alta qualidade.",
+        "imagem": "img/feijao.jpg"
+    },
+    {
+        "categoria": "frutas",
+        "nome": "Maçã",
+        "preco": "R$ 5,00",
+        "descricao": "Maçãs frescas e selecionadas.",
+        "imagem": "img/maca.jpg"
+    },
+    {
+        "categoria": "frutas",
+        "nome": "Cacho de Banana",
+        "preco": "R$ 6,50",
+        "descricao": "Bananas maduras e nutritivas.",
+        "imagem": "img/banana.jpg"
+    },
+    {
+        "categoria": "higiene",
+        "nome": "Sabonete",
+        "preco": "R$ 2,50",
+        "descricao": "Sabonete hidratante.",
+        "imagem": "img/sabonete.jpeg"
+    },
+    {
+        "categoria": "higiene",
+        "nome": "Shampoo",
+        "preco": "R$ 12,00",
+        "descricao": "Shampoo revitalizante.",
+        "imagem": "img/shampo.jpeg"
+    },
+    {
+        "categoria": "alimenticios",
+        "nome": "Macarrão",
+        "preco": "R$ 7,50",
+        "descricao": "Macarrão espaguete de 500g.",
+        "imagem": "img/macarrao.jpg"
+    },
+    {
+        "categoria": "alimenticios",
+        "nome": "Açúcar",
+        "preco": "R$ 5,20",
+        "descricao": "Pacote de 1kg de açúcar refinado.",
+        "imagem": "img/acucar.jpg"
+    },
+    {
+        "categoria": "alimenticios",
+        "nome": "Sal",
+        "preco": "R$ 3,00",
+        "descricao": "Pacote de 1kg de sal refinado.",
+        "imagem": "img/sal.jpeg"
+    },
+    {
+        "categoria": "frutas",
+        "nome": "Laranja",
+        "preco": "R$ 4,00",
+        "descricao": "Laranjas frescas e suculentas.",
+        "imagem": "img/laranja.jpg"
+    },
+    {
+        "categoria": "frutas",
+        "nome": "Uva",
+        "preco": "R$ 7,80",
+        "descricao": "Cacho de uvas doces e frescas.",
+        "imagem": "img/uva.jpg"
+    },
+    {
+        "categoria": "higiene",
+        "nome": "Creme Dental",
+        "preco": "R$ 6,90",
+        "descricao": "Creme dental com flúor.",
+        "imagem": "img/creme_dental.jpg"
+    },
+    {
+        "categoria": "higiene",
+        "nome": "Desodorante",
+        "preco": "R$ 10,00",
+        "descricao": "Desodorante aerosol de longa duração.",
+        "imagem": "img/desodorante.jpg"
+    }
+]
